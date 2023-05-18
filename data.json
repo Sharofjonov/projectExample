@@ -1,34 +1,109 @@
 {
-    "students": [
-        {
-            "img": "./img/img.webp",
-            "title": "Jahongir",
-            "text": "Jahongir Sharofjonov 2005yil CHUST",
-            "id": 1
-        },
-        {
-            "img": "hi",
-            "title": "Jahongir",
-            "text": "Jahongir Sharofjonov 2005yil CHUST",
-            "id": 2
-        },
-        {
-            "img": "hi",
-            "title": "Jahongir",
-            "text": "Jahongir Sharofjonov 2005yil CHUST",
-            "id": 3
-        },
-        {
-            "img": "hi",
-            "title": "Jahongir",
-            "text": "Jahongir Sharofjonov 2005yil CHUST",
-            "id": 4
-        },
-        {
-            "img": "hi",
-            "title": "Jahongir",
-            "text": "Jahongir Sharofjonov 2005yil CHUST",
-            "id": 5
-        }
-    ]
+  "Students": [
+    {
+      "name": "Javohir",
+      "lastName": "Nabiev",
+      "dateBirth": "2006-01-01",
+      "adress": "Xisorak MFY",
+      "School": "2-Son KHM 31-guruh I kurs",
+      "phone": "900505092",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba,Payshanba,Shanba",
+      "Adding": "Nazariy bilimlari yaxshi",
+      "timeEducation": "15:30",
+      "id": "X9L1aR0"
+    },
+    {
+      "name": "Yaxyoxon",
+      "lastName": "Abdullayev",
+      "dateBirth": "2006-01-01",
+      "adress": "Mirzaobod MFY",
+      "School": "2-son KHM 26-guruh I-kurs",
+      "phone": "946441314",
+      "education": "Frontend Dasturlasj",
+      "dayEducation": "Seshanba Payshanba Shanba",
+      "Adding": "Zukko o`quvchi",
+      "timeEducation": "15:30",
+      "id": "8qRVIoR"
+    },
+    {
+      "name": "Ravshanbek",
+      "lastName": "Abdulazizov",
+      "dateBirth": "2006-01-01",
+      "adress": "Rezaksoy MFY",
+      "School": "37-Maktab 10-sinf",
+      "phone": "940633403",
+      "education": "Frontend dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "15:30",
+      "id": "PLUQLLZ"
+    },
+    {
+      "name": "Abdulhay",
+      "lastName": "Karimov",
+      "dateBirth": "2006-01-01",
+      "adress": "Sadacha MFY",
+      "School": "1-son KHM 1-kurs 30-guruh",
+      "phone": "990672426",
+      "education": "Frontend dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "15:30",
+      "id": "K3a8bF_"
+    },
+    {
+      "name": "Nurbek",
+      "lastName": "Umarov",
+      "dateBirth": "2008-01-01",
+      "adress": "Olmos Mfy",
+      "School": "71-Maktab 8-sinf",
+      "phone": "931777620",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "15:30",
+      "id": "j7ZfTQu"
+    },
+    {
+      "name": "asdf",
+      "lastName": "asdf",
+      "dateBirth": "15555-12-15",
+      "phone": "asdf",
+      "Adding": "asdf",
+      "timeEducation": "02:26",
+      "img": {},
+      "id": "Dn9O0LF"
+    },
+    {
+      "name": "asdf",
+      "lastName": "asdf",
+      "dateBirth": "1555-12-15",
+      "phone": "asdf",
+      "Adding": "asdf",
+      "timeEducation": "15:15",
+      "img": {},
+      "id": "r7XLHND"
+    },
+    {
+      "name": "asdf",
+      "lastName": "asdf",
+      "dateBirth": "1555-12-15",
+      "phone": "asdf",
+      "Adding": "asdf",
+      "timeEducation": "05:15",
+      "img": {},
+      "id": "Dq2-hXF"
+    },
+    {
+      "name": "asdf",
+      "lastName": "asdf",
+      "dateBirth": "15551-12-15",
+      "phone": "asdf",
+      "Adding": "asdf",
+      "timeEducation": "15:12",
+      "img": {},
+      "id": "lcFsm-W"
+    }
+  ]
 }
