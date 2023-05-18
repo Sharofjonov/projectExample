@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "img": "./img/img.webp",
+            "title": "Jahongir",
+            "text": "Jahongir Sharofjonov 2005yil CHUST",
+            "id": 1
+        },
+        {
+            "img": "hi",
+            "title": "Jahongir",
+            "text": "Jahongir Sharofjonov 2005yil CHUST",
+            "id": 2
+        },
+        {
+            "img": "hi",
+            "title": "Jahongir",
+            "text": "Jahongir Sharofjonov 2005yil CHUST",
+            "id": 3
+        },
+        {
+            "img": "hi",
+            "title": "Jahongir",
+            "text": "Jahongir Sharofjonov 2005yil CHUST",
+            "id": 4
+        },
+        {
+            "img": "hi",
+            "title": "Jahongir",
+            "text": "Jahongir Sharofjonov 2005yil CHUST",
+            "id": 5
+        }
+    ]
+}
